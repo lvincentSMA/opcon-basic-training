@@ -7,7 +7,7 @@ hide_title: 'false'
  
 ##### Objectif: 
 
-Créez et enregistrez un Schedule nommé **MY FIRST SCHEDULE**. Ajouter de la documentation pour préciser qu'il s'agit d'un Schedule de formation. Définissez le Schedule avec une **Mise au plan automatique** ```7 jours``` à l'avance pour 1 jour. Réglez la **Suppression automatique** à ```7 jours``` en arrière
+Créez et enregistrez un Schedule nommé **MY FIRST SCHEDULE**. Ajoutez de la documentation pour préciser qu'il s'agit d'un Schedule de formation. Définissez le Schedule avec une **Mise au plan automatique** ```7 jours``` à l'avance pour 1 jour. Réglez la **Suppression automatique** à ```7 jours``` en arrière
 
 <div>
 <video width="320" height="240" controls>
